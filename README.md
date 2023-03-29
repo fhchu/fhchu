@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @fhchu
-- 👀 I’m interested in games
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me felixhchu@gmail.com
+Hi, I’m Felix! I love games, programming, mental health, and communism. 
+
+I am not very active on GitHub. You can contact me at felixhchu@gmail.com
 
 <!---
 fhchu/fhchu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
